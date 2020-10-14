@@ -11,7 +11,8 @@ while(x<=veces):
     elif (num<0):
         neg=neg+1
     else:
-        ceros=ceros+1
+        ceros=ceros+11
+        
     x=x+1
 
 print("La cantidad de numeros positivos es: "+ str(pos)+ 
